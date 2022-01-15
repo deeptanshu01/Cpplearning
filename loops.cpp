@@ -19,16 +19,24 @@ int main(){
     // }
 
     // while loops
-    while (a<10)
-    {
-        cout<<a<<endl;
-        a++;
-    }
-    // while(condition){
-        // statements}
+    // while (a<10)
+    // {
+    //     cout<<a<<endl;
+    //     a++;
+    // }
+    // // while(condition){
+    //     // statements}
 
 
-    // Do while loop
+    // // Do while loop
+    // int i=0;
+    // do
+    // {
+    //    cout<<i<<endl;
+    //    i++;
+    // } while (i<=10);
+    
+    
     
     return 0;
 }
